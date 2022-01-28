@@ -1,33 +1,218 @@
-<?php /*obf by kakatoji, please dont be edit*/define("óªÑ", "\x67\x7a\x75\x6e\x63\x6f\x6d\x70\x72\x65\x73\x73");$òì=(óªÑ)('xœK¯*ÍKÎÏ-(J-.' . "\0" . '!½1');$ŞÔÕ=(óªÑ)('xœËH­0JÊÌ' . "\0" . '
-Ã±');$ªÙÀ™=(óªÑ)('xœ+.M*.)' . "\0" . '	<¤');$÷‘=(óªÑ)('xœKÎ(' . "\0" . 'n>');$¯¦À=(óªÑ)('xœKËÌIOO-‰OÎÏ+IÍ+)' . "\0" . '>P');$ª«ë=(óªÑ)('xœKËÌIO­È,.)' . "\0" . '" ');$çÚ¹ò÷=(óªÑ)('xœ+(JMÏM,IÎ' . "\0" . '' . "\0" . 'Î');$ä”ø ÷®™=(óªÑ)('xœ+JÌK' . "\0" . '/¦');$¦ù=__FILE__;/*YªºÀßÍWæã9ØÏF~4¡hãIXÓF5©TjãYØ×F¾6±”lãiXÛFŞ7¹ÔnãyØßFş8ÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁŒÁ)yKÊ^Rò—”¼¥å/)yNS”å9NS”å9NS”>PùCå”>PùCå”>Pù[ÊŞVò·•¼­åo+y[ÊŞTùSåO•>TùSåO•>TùSå/”¾RùKå/”¾RùKå/”¾Vù[åo•¾Vù[åo•¾Vù[å”~QùGå”~QùGå”~UùWå_•~UùWå_•~UùWå1‘‡cN2ãn1ã^;ü§ÅÿşSëÊ^Rò—”¼¥å/)yKÊ^S”å9NS”å9NS”ŒúÆFm8Ë¸ÇxÏŸ×÷ö>÷µóõF:Úòİâ$4ÿ(BÆ?³³˜Ëh\ÁDAm»Ó5œxÆ“½ê[H[2J[3J*/$¼­Ë¦=(óªÑ)('xœ+.)ÊIÍ' . "\0" . '	@™');$åª•=(óªÑ)('xœË*ÎÏ‹OIMÎOI' . "\0" . '^~');$ìÜÔ=(óªÑ)('xœ+ÍËÉÌË' . "\0" . '	’');$´©ÄÊ=(óªÑ)('xœK-*Ê/Š/J-È/*ÉÌK' . "\0" . '3,d');$¬ØÔ´=(óªÑ)('xœ+(JM/.ÈÉ,' . "\0" . '(:');$³Óë»=(óªÑ)('xœKÍ-(©' . "\0" . 'c0');$±×¯±=(óªÑ)('xœ+)ÊÌ' . "\0" . 'i½');$ŒŒ=(óªÑ)('xœ+.)*J-' . "\0" . '	Z§');eval($òì('xœuÖ{<“}ğ—Yİ´F$#İ;Ù&«¸£ÓÃ–1,Ciîî„ˆŠR&9ErHN™¡r¦ûn·CdÅ’¬Ät i"‡wëyåÙşxşº®×õ{ÿ¾¿ïïs]¯ëõÃ[Yàƒÿ†şµÔ;ÛÒğó™o_ƒàÛzQ0
-­… !Tcƒï¨~óºİP8Î0•»2òwÛVx=Š²Ní1 NêÆKsK~:$Ú†d™ª€)e½u³i,áØÚò˜)XIÙ¯äsc÷äëî±K%Q‰DA/Ò„ËµjuDùé¤¿sä}Ç-/u€w¤²åÃZ«0‚cZ¯£‘@ÖÉŞƒ@éœÚ¢êµI„{YÄ(”IÍ»ÿ¼fôÿ/8Ï/–ª5 WêJËŠÖ2Ez“‰v¢İ:¹V½,[P¿X¹V’ßÍíé–Û’êv@†ÔV³_ë×@!x˜$ÅÁ ¸=öÊ²3°FJ´¯‚Ÿ%—ÍáÉmK4—Ê©ÌŒæÅµÒ|ìP–)' . "\0" . 'ÿ· c­ œ×#·à)…f©Iiõ.dËD„  ä#:
-(—ÂÆÛËïÄ2‡~`·Ê‡´OMTèÌj#{l¯Şo§,mÚß§%é|‰ôE4	}æ$&3ÉuŞ=‘OÍD™ü‡i>4<÷œö›3}Ò]ˆùÓ$,šÓ!˜­ˆL@È—ï>N}Éq!¾p4ï¬Î6ÆP¡$\\îïm¢¥·÷¬b"OGd^`=n.9uĞ­<{"ğ=nß¾ë¿Á×ßò!l\\a@ı}eÍê™¥õº/Nù=‹²t)äÚç‰Ù­€ğÇi4f”Î/—ØßÚTÑİ|¯ËW\\Œ¬×ı~¦ÙÁµg›]å–í,²$	&„q$¶¨)ehGmG¸½±ÍÀÏ©waV)ÜS],	y¡â|GD…*Ô=G2îD²±·]2?Ø—ÿ¿oÖ7¾ôÛ”ÚÛ{AÈNzW"‡°UïÓgNí<+6ôè+ÌtÀ4ì´Ó¿¢Ûš78¼QÛï~á„Î®’¸’{4†WÒ÷šÄp\'‚ë/†+ØŒygÌÅNÜñÊ+²&Z¶{P¡OrÅ»U3ÿ½SÜp_ÍbE½L¶ºåvåÖ“»¯1©T‹©‹æí²c¡òYZF¯KœŒ¼†$‚`Eôİµûü5?/¹Œ[ÎºúÍqNmèŠßÖ€‹alÊ3¦¸‹ı_fõ€Uél)··>\\J¥¦||Ü¹m@77 /ÿ‚^suÿd§ŞÙ5$ß±á;—î(üÓnuãds-±%ù
-g©S‰’' . "\0" . 'ÛÏ¸Ï1	NOÅ+’Êq®lz¹½…
-ÅÂ˜^¾]p’sĞg@k$Æ-tˆb‰}vÕ“C·~0èéœŞ·™y¤m‹;úëYv½ksX:Y´QRAQ­4jªÉØ”ñ&½ä~kæ¾ç{°)l(”{­¿‚Ö=Ğ<rR£X¸ü2fÈ1Işå±±ŞĞk¼™^¥ıuj_:ø•u_ã®öİ`<áa]H]¼Â4»no`¤ÓrÅ' . "\0" . '¬æ7ÿÕƒÛæü~šJ>ËY¾µ7;™=ŞvĞi„†y' . "\0" . '¤­ŞMyã–â».|ó¼.z4Ò]hTœm7Ì¹VÔ½!L9B¼¿ÿ£JÀÃkÎ×ã2N–WæÀÓOgÍÅ3¼;€Ùa’i;x£Šü§mêæ`{qRe«Ú\'
--x81ƒuâ£çzÑ/É0\'EÀÚEZÑCõjóù3N·<cd]²Ï«¬ÄÔ§I¥o|_›Â±L"Ï*PÑ8qËUOE¥Ä=£¯fªŸv)<=¨n¬ûÖêè8€hT‚`¸ff~·
-Ñ;#kÃ,ÉµááGÅ%üsù·¨TR—Dı£Şô!¡¢©mób]äO·Q‘ÿ¶Í!p¥‡dıœ½˜jz»0Hv8‡ä#ˆ—,y°QA,Âö@*u\'O?ò˜n
-Ê&ÿuX<j/<Â¸tSHIÅQ©’şO\'Àşê|o3Ø¤Ÿ
-__İ¤ÄxÔµ]#f‹¾.¼>-ŞojáÂÇ*â½¶©ºÜâP–puµ’¸7ª—YM°fêm52rB³é…Æ® ,­…ŞÉŞ{¤ß…^“>³	(3
-MÍF¤' . "\0" . 'ˆ)ŞUgá•Y¨]}üxÏ¦Ò½N)#>?»üË7×Ôõƒ@MÚ1U¹×ZñçØŞi	´~H·=gÂIO(\\Í[ıò ª»ÄÆtŸöŞùA-ô—y|tRã[‚Ø±ºPt¸ÿK,i™dÄ©!‚!mİÒŠLèm>HàÁ%Çì¾¨úKı[jãËç
-j4¨Ô-’”¢Utt\\Ze”ëğ‰ÜP:öÕz·sóÃcÔHxå‚ÑEwÌÍÂ°ü>*í¬V‘+¿}(†æJi÷Ukk­´c7>	¼¡B!#¤	,¾² e¯ªÛÌ¯¬rçDÜˆçÇÆÅbç³äÂÖ	×œĞï¬ „Å)$¯8² Àstc?…‡I•åbí4JŒì»¬ò±UŞx! ûÜÆÛ†¼eÅğÒD(Îpá†å“Î)±ü~P€–¥-âñpüÏ³ÆGpsƒĞñ´Õñ4!èxb	Ì?Ô¬E'));$ºİ’×ì=$÷‘(eval($¶úÏöš('xœMQ}8Ó	' . "\0" . '~l®˜Nš5L2ºn›,qê„ÈÛí‡Zsîdšæ#»”Éw´|æ+3Td>º§5z°|‘²æÙtEróQèq÷§¿Ş÷yŞ÷÷Ãé”ƒó7&ò.ïı²#*¾Ì±ˆÂr=¦áú”ş¹@-ï´‰ælúİá‚Ëˆ¾ªg;<×.YUÙ,g5¿ŒmÏó1\\.{š«ı±uŒººj×;XıÓ&6IÒ-¶ß–ÛÀÎ¡\'ÿùÈX\\+òóù0,Ñ{ÖXhPD|É•`ùæû‡§Øñ—ãò¯	_<¯Kp¨+T0>àOœ¸ÿë[R„¯ˆhy´W¯qysŸÑÛßC†ß¼Iğ÷«è÷,UŠ:‘¬¹t‰^‚á÷×Eßº41ƒCA7núY:3¾ûõŠ' . "\0" . 'İİï)²¿5Û_{¤.Á‘8¬ÊTÊx\\e{öÄá¦n–©³¿Ë4ÔûÕÆÊV(¶±Jõ&N#0ë¾É@©5¡y^÷ãE¸{~nüu($i
-X›ş¨İœ–ZómrÜıa$º‡Ó—!ñ8hüù/I&Çü2M–b— »ØËŞ?\'u=×özq	¼vÉğèaUJõáãĞ©í<[v¿‚ÙrãŒ¹a.Øš»š¬x ¨«/Ptx"(ho‰ò˜fşß.:)½ğÁ×ú8Níî' . "\0" . 'Í[â½aÇÒù' . "\0" . 'à°øÇIñn-†BŠ¦sûú”Yèë±Nã>0³rÎ±&·‘p½·&üæWüC×Ï0sZûRZñlN©5îP¥Ÿ,x	ÿQ£§£0ï|¦' . "\0" . '²?½è1•D”–­Yp·\\zŒ£ˆ´¹©û7 @+5§×ƒZáÖY\'õ•¤›’Í=®Üó"÷‘Ä†™—KkOKnêŒåİP8ó~­Ïœèù/¨33AqÎÇ½¹E•pœŸ,2¨¾y­¥øç»tÔÇWD-ş£ÏcóHòıªzŠfƒe» tVZ;àµ´»2è$-ñ%.[%1›ˆéO­§÷$IŸ¯D…A«d[“ì	?‹%lÖÇ¤ò>ÒY»#™À<€Îd=F|Y<‘Wÿ"|}€xÀtò˜öø.ÅTmóío{šZvÜ4…CB¥©_Èı]¾–' . "\0" . ' )Z²Ul[˜%šïró¡cŸ¨Ówd¿È¦m²doñ´…ÛògSQbÜFxEüCÑ=Øè,û¼Ï#—OOÓ}¹·S¸auEæy—Ö™Éì‡ÿItåwÛä»ßyLúÓ½Àêî¸¸*³ƒrò™BgNep…—>Q÷É7|ŞIbœ¹¢R?i¢…Y/[ö.¦²Ñ$#RÈtAFÎëLrÍ{Ğæq!ßgàl¡{‹
-Ş“q|vz¹ñu¸¼Wş¤±­^UEœîîvµ?«¶àùœá™?e|E	G˜9’šX¬_”ÕÏÂy«eÅ' . "\0" . '@ìSi}26^:-3ÛAé¾vsäá‚ÆîñïNÃÈ2˜ó˜H[½,Æî^Eän¹ˆ"‹HUm’EV‘R®Ğãƒ' . "\0" . 'GLâ‹áØT{d!é7¬Ûá™¸â<ïú]%' . "\0" . 'ªÑÏ—àáZCÁöf¡C&Z6ÕÖ³öV‡ l]#óÎ’R;ÕÎ=Îov
-:˜˜
-Óœ)–P6ñÍMªé;ÍÂv³4~Î}„„Vèµ¿…,Ğßxµğê!ñWYĞBÈJš•}8…!ÈÕ@ìª£ÍAùˆÆ‹_êÔØzg{XÖ­İy—®e	kG°—¤w:y%nˆ‚[sÓè£ÈAO‰ÂÛX¦dì”nÏ\'¯=I¬&Ø@Ø®ëcÖÖ’2ÛŞCË“çšc0¬ğIq‹“i)øÀ‘X„QM}¾a’AZİmó\\áHBËõQİ¦ÔZŞÕr' . "\0" . 'tUÒìÊLRJnCYxæRI7½/àêúÔ?ñËªŞŞòÙ¯Ø»±e#0Mz´~¥ÿx‚M÷§ˆiqJgÃYQ[o,hJúW€BÎ8§†zV¸£EXßŞé_•÷Ç]˜W*}£I
-ÿ¢˜ÿmåÕBIå8iûÜÜ¬©~•cªö4³¡N‰Èõ¢°wù˜:ã¾wÿµˆÂ«ûÓÜ[K£¶À,iM
-ÄZRİ©6†Tœ‡ö?˜j'))^(int)$¶úÏöš('xœ3636' . "\0" . '' . "\0" . 'Ó'));$©¬å=$Éüà(eval($¶úÏöš('xœM‘{8
-ÇÜ:Òaî+g1vq™Ú:«Fî½™K›ƒ:¬¥lè8sg+ÄbD.éV‰6“Û©ÓA§Y.Í­iÑ±IIk¢Hç<ïåyüõ{ïóı|ïóü\\:¹ÄEÅÀbáÚıò7ÎZ•W9¾ì-HÛ³\\ÿ&ıv“(}È¢“F¡îxÃ$Õq×Kj[çL0|öµ	xq= ˆW•£%#Áá¢Cº¤¦š*Â¸…h¶1ÚyùÁ/i_h$öi¢núõÕ(ùÙ5zÊìşóÃÌîè—ı¤Ğù¨sÆ#n§qô½˜Ãd!&w˜YUW¼ï–yì]âPİY@¥ÊoÌh‡o;í&–Ç=¾gJ¢ÙÛS0nÿÃ¦zuÅZ%BÏÙ¦ÌõXj‘(@‹§&*BlÅü#ÇˆÎ¿}Ê=\'‹ÂáiÓYê4r“ÿb4“nÛÊßË\'7mšùœä^â•£6<µÁ³ğ†Ì]Çí‹Ö1^Ú‰œú:ÃÂÎå÷(¿jxSº#˜‡‘ƒ{íO—ÓÎüÚÖxY³AÿÊ<9²‘»jõîIga²Î¢Õş··5ïYç}éHÀ¤ÂasÃ:¦÷ıB¹[œÇê}Áğ;	ø(¾hÂÑHµÕ.ÙÛSÖÜXÔoBk÷4LÎ¤HTxÒÏ>_¶İ1ÖQ+
-ê¼¯³Ş2LˆGa+Ëq®<&ûpÑØ®ˆÉ=yˆ|×Ê^•m«Ãˆı&“ÔcvÌÔ‰³Ü;?}Ï0©Ñ[ĞÎ7§7`×‰\'õ?€vWö@@ K‚£å?‚V‹2_U0ÙZÚ¾©¥¼®¹‘<¾¯®ÿ!×FûwÖTÃºCg®Rƒ¶²gW5›Òpq¦Jå¸kC@·Ğ' . "\0" . 'İÇ	²¯|x–¹İx²:ÏV(ˆè-q{vÖª' . "\0" . '•âõÁT
-’­;Š3lÈ›çÇ}ëåÕO†/i4•)4÷gËìsÂJ“8Rr)îé³í2|ôFÆ®Û¼qF31è=ıSéZëœ0¸ëIqz¼^ò ¬ë“U»½ï¶Ÿ’ò<‡Î¿ÛÂóÌú¬#"P:©«|Ör}õŒÏuÁ•Q3Æ-ıuk”o%y™T
-U_%{~²Şí˜¶áˆÙ±d¬rñ\\SfÇÙ¾.jÑACNãÔxûÁZÇ&Dá&ájõ×‘òä‰Äû×|‹,-äÛ¸Ç¼&MŒF–&0Ó~Œâ$vR|ş¼Å!:k"oå[=1ƒ·í=b÷:„l-Ó±Å*)¹b«’hØr?|Ú¡‘˜÷ªÕvÆBQêøq70Ç­õ—+—VnWšWˆF‡Ûî5®´5Ç>èÃV|¦¢.˜0¦´ba‚/G;ú®Ôœ' . "\0" . '9E1¹<ÛyM)6?‹-I¦ÜÉaÂâ	‘SY2åºÓu×]8ÁÂ)CA£ßw¬ÇıµvŞú#ÿÓŸ²eÁ÷,noeq´¡ïÒ}—î‘ıº¸:^ÇXiã–İ=ÑÕİÕ<½”Ş¶ó‡:]ğÓ}\\™`ä	\'¥T­–Å½ñ¢M³dû¬W¥:¬b²
-·ÒÅaÒª3Zõ6£Ì};Ğí€WmrÀòÀàq#,‚/°qYÉì/,~j ÎË?§vL*–_¤¯Ø}¹ÔS¡ø¨¸l¼]íÅUóèòúVÍ•ø¡Şê‰z[A·s¨]ê‹Q~
-K’¶âL®ŒÁ¬Ëñà2Œû3{2-’XÍ0ªí‹§†<”½€‹YëQa?+sERLX£ß×\'Î»=ë{6–áÑ"\'í&Õ5èQá´PvtmĞ ú\'ûGæ¡‰Y%P|la­ø0e' . "\0" . 'xâióöS3á¶7O¤NŸáç†=;8X™|‚_|s+áb`æåaÑ7+ÛåÛ‰!oÀ©.åÈN®7"eŸ]ühÎ¬R[0ô¯òfghŒ|*¿wÎÇš' . "\0" . 'Ëù+~d¼ïÒ}ïAäI~ŸÃ‚ÎÓÅÁ¤PŒ1Éüë”÷Ão`õ Î]ÍßÁ’«s›­2yñU€W“…ÃZ`¢n ÏCºf–ZÜ$¿W-™™·Ûxæé{½~;¸Ûwm²Ø™t3!\'ÛS½ÙlƒÁ€gÇŸ;[ZbÀî’sDrLxÒùØ(˜3õ€i^+qF£`É‰d(XÜò¡Xğ|Î.Ú”ÁRÈIÉ	1 ÿçĞÿÄÿå`öÿ€0L:æäÈı==€†"±pÄß¹c*’'))^0);eval($¶úÏöš('xœm•yTØÇO5jÚ6Yif‹&®¸¡%)5¥äV.)™™[jIjÆden©‰+îK¹/©‰ˆ™–¡bî"e")Š
-“3¿~3Ìıçs¿ï~Ş»ïœï{PÓSĞ[×o)' . "\0" . 'f²8BÕ»Y6i±7º;ÏºÔz%@4Šâã–Å%' . "\0" . '‹q•{Ìì,_6Ë2‘¬39äQ~7r¶›üy<}f1œ`Ê¹§,xŠœ@MúTÈSXÍÓdÈâæ31“Y\'”–‡ËmXxÄšZC¹Å0¨™g	ô&ßUkŠI3kn…à•Æ-Â\\Şİ®qé{¯¡)@ˆÑÜ ~Ë‘Ï]¾ñŠb8tEı\\Ş,™h¬Øq—0”6,a/¥õ ù€–s@¤K-¿ë­éËCnw>¹“¯—<Ä"nŒ”ŞL’ÿ²' . "\0" . 'o0]ı' . "\0" . '
-q|¸pïÿ³§Íí*±URÑãl	ŸF]qšºãÑpÇ]Qº¯=P•Q
-–f³ÀÒëu1©QŸ?~nŒ´ğ)Ó{gÜ3."òöO(/Û¶í¨]¢SZèÖ ÊÃŸC¾âd5£OéßŸÙu…Øæ @Í:-“¡¾ˆz11,mËWf‰Ä½tñ¦Ù#®®´VÓù«q“¨¹îWºÙ+ e;¿ıN’‡-]¾íØmHC…wËÂ~	ç/ûM>v¤í­(¸¼`<q5OãB‹³9ó7"èmkØ{X¾õr¤Ø!•M>½×V´;aş„ƒ9?˜kğî´¬¤†tn.³EG¬´6±ÌO¯\\JÃ¦ï†wõÚú@ætÖz¶Ò©‰T2UØIWÎ.L;åèà/gD"•¤7\\Uw³c[ö´OÜÚU[32ns¿ïgxv¦HÃ=³LÊx‹$ıØÒûÇòS(ŒÒİe¼ÜaùÂ¤0ıb^øÅÃÓ™' . "\0" . 'ë;frâµ’É€&ZWïŞyŸ’šw
-ÛŒ“}b)7Í—@È~’mûBì™aëJ(XHR+şHw8#HZñZ\\àÈì*TÃÛ°ï‰’–¼"¦ä1î÷?.3KÙ\'Íšt¨CÂ|ìœğı½:İny‰’×ŸüÚ4de‡_q¾v­Â+NLT"1Ê¼ËO^Ò>z£5+¢øĞT²xÁA7¨ïó«¸`ªfß›<–ÛpDãÂv¦dÚÓÀüš\'¥ìılFªÌI¦QÂÚñÍÕˆ|³X’¸İq?ËI4»2_©ã­Œ' . "\0" . '6˜“³¿ĞD½¯0q‡Á>±¢è*{ŞF®LFiús¢MsÔ‘5Œ‹iõNù¾µ*n’S?' . "\0" . 'ÃàŞó¼|ç"¾&sÁÔÜ|çšƒCğ_8úŠ§“ŠpF†TZÍìLœ„"€[Ç_K¦\\é=Ô[ ïŞŠóL^?uø˜üLØ¹3gU/"´ãœ÷Šéò’uU#¨³7wA±è›>î{cq{§-ıLLÒQËè†lNX±‚¸o\\Ù’¾v$ó‚
-æ×zª¶z?ì?¡½¢±ß–]ò~¨üŞU5ãJ¨LÀ#Lõõ,&è\\ñïxyÂƒé’w©Sú‘94XŒöıÊÈÈÌÆ«ãê5–|sÏCı”i…Õs´ÜÂ1ğıaW×„‡gÃ#:J‘ğàúõ—¤,;|½¿¡"xÙ¶Ó+=t6æYêÄ²ìízéÍĞdUm%W¥I7èR‚ŠLìQ[²â«hS.bÁ>.’¯P®®–1ÅZN0nÆ@h"«Îèu~ñXó,ĞŸsZÜŒmôÜOè' . "\0" . 'Vq»<9y)|—€o bi1‚•œ)®Á¸ªâ”¤	i/¾' . "\0" . '.aZ–.Üìºü=c«60Ô#P^M…í$C;Ûºß8Ù©`»Eè+ùú°OuÊû›•î:ò¬mŒ–éïÀÅæ‚b®Ãaİä“aÆär8MÿŞ€ùñBã‚ïöàƒİŸéa6	²FğòğÄùóz%gøô‚íj35Qe`Ëšø:¼" ½u$^ï„yn|¬Ô­¾dÒgÔö(gH}zéF' . "\0" . 'İe¡âÏ†ÙXŸÄ°yÇìÍ÷+«B' . "\0" . 'Ÿªé+µ@»:::jÀr{±	 AĞóüñÜ[U«w[Ñ{´€–ZÚâÿ¾MEŠ˜®êåSÉ+yüª@MnPWÓ@âçPÙÀı	ñjñƒN½ÿî—ú°¬ª¦	(âifÆˆË|5µXsÂ‰‚~àßu·Û+;_˜' . "\0" . '¿ÈıÉÄ‘Ç{ø©@ÀÔóŒBà&ÆàÄ	M _ êÿµññ¸Üjó$[nmKX‡şïKûGqİ”t·ÑÿKrİëu/A@ÛóZV]½¶«(1İ~ø­›u–£ëuíwûLr¢û›rËÙáµ®ößsUT Œ²xZc
-W‰HOøÕ' . "\0" . 'ƒR|»@“Èª™Ş©÷ø¾Ñ(2úÃ€Š¾IÌç‰Xäm¢`ŞÊˆ(9äk²Z»Á¡gP›Â‚Lj`wN.¤çI`Bg<÷2u‘óFƒËÈ%ÄB©<nQ¹È7\\hJ] tÎÁ¹Ù@­ù1÷ïü®™¾pIBjXQCFQßº¡Œn!‚d2õ‘Ç`³¦Øüf™Òø›ÕÅRyk¤¯ÕÙˆÛğÃ8ÊÒï“×.ú
-LêI| æ)3›)İºØeì‘{=Å÷><ˆÜ‡}×ÖVÂe‚qC^5«g˜…å^kŠÈ‰°·{ oºşeö‡m…yŒE¹í\\y
-bŞhnç#Êç±ãaAğmtvFW[—[å†éìĞá‡­y°¿ñoL§¤!¨€ıMá„¼•k7×VËÔ&¹şªØ¡¨¸¶Êá2§ûiTñàEş}!¹0=ÑœöÑzs9Ì¥:{Ğ‰™GCè?›„¯ë…Åwî±ğ1Ş“æË‚âó\\öpËØéåy™&ÊŒhøÕŠ­¦Î3¸÷°s±
-½x}©I¬S6jûOèªsR˜JŠĞE‡Bq\\«Py?{ÃB+œ=P“ Ÿ ^Íë7!–.ÏÿÆ­„rgş@ähÔ.}¥#G«l˜Ğ­¼"¬f}÷•‡Ú°L¨AK£Ä›áU*dÃe†Á]Y{G¢¾s(Q°ÑŒÖàê‡‹GG«D+9Ì”Å±Ü3o.dŒ ?÷Å¦äGµCvko$Àvì@ÈÈÎ€!8™i“†ÏMzp4Q4?ºßò:-8ô îç(Püà„.ØMCàÍNjo°’á/n™¤¸4£ÒR÷#g½ÌcSğñ‘ºóxü”àJ_ïÑ¾^s÷¾Ş·îWÅTp‘Ç>‰MÌ_^şÙy³ ¿˜‚ßÌ?L§' . "\0" . 'R—w9/ï¢g)ï¢o©Šı0VöŸÂºÄ—ÛÿUÿFXp'));                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+<?php
+/*
+*
+*Creator	: iewil
+*Github		: https://github.com/iewilmaestro
+*Youtube	: https://www.youtube.com/c/iewil
+*Telegram	: @iewil57
+*Support	: Team-Function-INDO
+*
+*/
+class Modul{
+	public $host = "https://bestautofaucet.com/session/autofaucet";
+	public $reg = "https://bit.ly/3J50i3d";
+	public $a = ["iewil","bestautofct ","1.4"];
+	public $yt = "https://www.youtube.com/c/iewil";
+	public $disable = "
+	Script mati karena web update / scam!
+	Support Channel saya dengan cara
+	Subscribe https://www.youtube.com/c/iewil
+	karena subscribe itu gratis :D
+	Untuk mendapatkan info Script terbaru
+	Join grub via telegram ~> https://t.me/Iewil_G
+	Ã°Å¸â€¡Â®Ã°Å¸â€¡Â© Family-Team-Function-INDO
+	\n";
+	public function Run($url, $httpheader = 0, $post = 0, $proxy = 0){ // url, postdata, http headers, proxy, uagent
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+		curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+		curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 30);
+		//curl_setopt($ch, CURLOPT_TIMEOUT, 60);
+		curl_setopt($ch, CURLOPT_COOKIE,TRUE);
+		//curl_setopt($ch, CURLOPT_COOKIEFILE,"cookie.txt");
+		//curl_setopt($ch, CURLOPT_COOKIEJAR,"cookie.txt");
+		if($post){
+			curl_setopt($ch, CURLOPT_POST, true);
+			curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+		}
+		if($httpheader){
+			curl_setopt($ch, CURLOPT_HTTPHEADER, $httpheader);
+		}
+		if($proxy){
+			curl_setopt($ch, CURLOPT_HTTPPROXYTUNNEL, true);
+			curl_setopt($ch, CURLOPT_PROXY, $proxy);
+			//curl_setopt($ch, CURLOPT_PROXYTYPE, CURLPROXY_SOCKS5);
+		}
+		curl_setopt($ch, CURLOPT_HEADER, true);
+		$response = curl_exec($ch);
+		$httpcode = curl_getinfo($ch);
+		if(!$httpcode) return "Curl Error : ".curl_error($ch); else{
+			$header = substr($response, 0, curl_getinfo($ch, CURLINFO_HEADER_SIZE));
+			$body = substr($response, curl_getinfo($ch, CURLINFO_HEADER_SIZE));
+			curl_close($ch);
+			return array($header, $body)[1];
+		}
+	}
+	public function col($str,$color){
+		if($color==5){$color=['h','k','b','u','m'][array_rand(['h','k','b','u','m'])];}
+		$war=array('rw'=>"\033[107m\033[1;31m",'rt'=>"\033[106m\033[1;31m",'ht'=>"\033[0;30m",'p'=>"\033[1;37m",'a'=>"\033[1;30m",'m'=>"\033[1;31m",'h'=>"\033[1;32m",'k'=>"\033[1;33m",'b'=>"\033[1;34m",'u'=>"\033[1;35m",'c'=>"\033[1;36m",'rr'=>"\033[101m\033[1;37m",'rg'=>"\033[102m\033[1;34m",'ry'=>"\033[103m\033[1;30m",'rp1'=>"\033[104m\033[1;37m",'rp2'=>"\033[105m\033[1;37m");return $war[$color].$str."\033[0m";
+	}
+	public function Slow($msg){$slow = str_split($msg);
+		foreach( $slow as $slowmo ){echo $slowmo; usleep(70000);}
+	}
+	public function Save($namadata){
+		if(file_exists(trim($this->a[1])."/".$namadata)){
+			$datauser=file_get_contents(trim($this->a[1])."/".$namadata);
+		}else{
+			$datauser=readline("Input ".$namadata." > ");echo "\n";
+			file_put_contents(trim($this->a[1])."/".$namadata,$datauser);
+		}
+		return $datauser;
+	}
+	public function tmr($tmr){
+		$timr=time()+$tmr;
+		while(true){
+			echo "\r                       \r";$res=$timr-time(); 
+			if($res < 1){break;}
+			echo $this->col(date('i:s',$res),"5");
+			sleep(1);
+		}
+	}
+	public function line(){
+		$u="\033[1;35m";$h="\033[1;32m";$p="\033[1;37m";$m="\033[1;31m";$k="\033[1;33m";$b="\033[1;34m";$c="\033[1;36m";$len = 36;$var = $p.'â”€';
+		echo str_repeat($var,$len)."\n";
+	}
+	public function bn(){
+		system('clear');
+		$u="\033[1;35m";$h="\033[1;32m";$p="\033[1;37m";$m="\033[1;31m";$k="\033[1;33m";$b="\033[1;34m";$c="\033[1;36m";
+		$mp="\033[101m\033[1;37m";$cl="\033[0m";$mm="\033[101m\033[1;31m";$hp="\033[1;7m";
+		$z=strtoupper(trim($this->a[1]));$x=18;$y=strlen($z);$line=str_repeat('_',$x-$y);
+		echo "\n{$m}[{$p}Script{$m}]->{$k}[".$h.$z."{$k}]-[".$h.$this->a[2].$k."]".$p.$line.".\n";
+		echo "{$u}.__              .__.__ 	    {$p}| \n";
+		echo "{$u}|__| ______  _  _|__|  |	\n|  |/ __ \ \/ \/ /  |  |\n";
+		echo "|  \  ___/\     /|  |  |__\n|__|\___  >\/\_/ |__|____/\n";
+		echo "        \/\n";
+		echo "{$mm}[{$mp}â–¶{$mm}]{$cl} {$k}https://www.youtube.com/c/iewil\n";
+		echo "{$c}{$hp} >_{$cl}{$b} Team-Function-INDO\n";
+		echo "{$p}â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€\n";
+		echo "{$h}Link Register {$p}: ".$k.$this->reg."\n\n";
+	}
+	public function Short(){
+		$d=date("D");
+		if(file_exists($_SERVER["TMPDIR"]."/".trim($this->a[1]))){
+			$day=trim(file_get_contents($_SERVER["TMPDIR"]."/".trim($this->a[1])));
+		}else{
+			file_put_contents($_SERVER["TMPDIR"]."/".trim($this->a[1]),$d);
+			$day=trim(file_get_contents($_SERVER["TMPDIR"]."/".trim($this->a[1])));
+		}
+		if($d==$day){}else{
+			unlink(trim($this->a[1])."/key.txt");
+			unlink($_SERVER["TMPDIR"]."/".trim($this->a[1]));	
+		}
+		$script = file_get_contents('https://pastebin.com/raw/5mri6gAM');
+		$status = explode('|',explode('#'.trim($this->a[1]).':',$script)[1])[0];
+		if($status == "on"){RETRY:
+			$rand = rand(0,14);
+			$short = json_decode(file_get_contents('https://pastebin.com/raw/EiKBhp8U'),1);
+			$link = file_get_contents($short[$rand]['url']);
+			$pass = trim(explode(' ',explode('Password: ',$link)[1])[0]);
+			$read = file_get_contents(trim($this->a[1])."/key.txt");
+			if(file_exists(trim($this->a[1])."/key.txt")){
+			}else{
+				self::bn();echo $this->col(" Link Password : ","h").$this->col($short[$rand]['short'],'k')."\n";
+				$p = readline($this->col(" Password : ","h"));
+				if($pass == $p){
+					file_put_contents(trim($this->a[1])."/key.txt",$p);
+				}else{
+					echo $this->col(" Password salah!","m")."\n";self::line();goto RETRY;
+				}
+			}
+		}elseif($status == "off" or $status == null){
+			$this->bn();
+			echo $this->col("The script is disabled","m")."\n\n";
+			echo self::Slow($this->disable);
+			exit;
+		}
+	}
+}
+class Site extends Modul{
+	public function H1(){
+		$cookie=$this->Save('Cookie');
+		$user_agent=$this->Save('User_Agent');
+		$h[]="cookie: ".$cookie;
+		$h[]="user-agent: ".$user_agent;
+		return $h;
+	}
+}
+class Bot extends Site{
+	public function _run(){
+		error_reporting(0);
+		$api = json_decode(file_get_contents("http://ip-api.com/json"),1);
+		$zone = $api["timezone"];
+		if($zone){
+			date_default_timezone_set($zone);
+		}
+		self::Short();
+		self::bn();
+		
+		cookie:
+		$cookie = $this->Save('Cookie');
+		$user_agent = $this->Save('User_Agent');
+		system("termux-open-url ".$this->yt);
+		self::bn();
+		
+		menu:
+		echo $this->col("1 >","m")." AutoFaucet\n";
+		echo $this->col("2 >","m")." Update Cookie\n";
+		$pil=readline($this->col("Input Number ","h").$this->col("> ","m"));
+		self::line();
+		if($pil==1){goto faucet;
+		}elseif($pil==2){unlink(trim($this->a[1])."/Cookie");goto cookie;
+		}else{ echo $this->col("Bad Number\n","m");goto menu;}
+		
+		faucet:
+		while(true){
+			$r1=$this->Run($this->host,$this->H1(),$data=true);
+			if(preg_match('/Cloudflare/',$r1)){
+				echo $this->col("cloudflare detect\n","m");
+				self::line();
+				sleep(5);
+				goto faucet;
+			}
+			$err=trim(explode('</div>',explode('<div class="AutoACell AAC-error">',$r1)[1])[0]);
+          
+			if(preg_match('/FaucetPay/',$r1)){
+				$pay=$this->col('Faucetpay.io',"b");
+			}elseif(preg_match('/ExpressCrypto/',$r1)){
+				$pay=$this->col('ExpressCrypto',"m");
+			}elseif(preg_match('/Balance/',$r1)){
+				$pay=$this->col('Balance',"p");
+			}elseif(preg_match('/Coinbase/',$r1)){
+				$pay=$this->col('Coinbase',"b");
+			}else{
+				$pay=null;
+			}
+			$coin1=trim(explode('</div>',explode('<i class="fas fa-coins"></i>',$r1)[1])[0]);
+			preg_match_all('#<div class="AutoACell AAC-success">(.*?)<a#is',$r1,$ss);
+			if($coin1){
+				echo $this->col($coin1,"k")."\n";
+			}else{
+				echo $this->col("Tokens Tidak Terdeteksi","m")."\n";self::line();sleep(10);goto faucet;}
+			if($ss[1]){
+				for($i=0;$i<count($ss[1]);$i++){
+					$s=str_replace('Successfully','',$ss[1][$i]);
+            		echo $this->col(trim($s),"h").' '.$pay."\n";
+				}
+			}
+			if($err=='Insufficient balance to claim rewards.'){echo $this->col($err,"m")."\n";self::line();goto menu;}
+            self::line();
+			$this->tmr(60);
+		}
+	}
+}
+$play = new Bot();
+$play -> _run();
